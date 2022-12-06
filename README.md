@@ -6,7 +6,7 @@
 Programmed in Visual Basic 6. This program can generate a new PLBA value for use with a CloneCD (.CCD) sheet. The formula used is referenced from the book "CD Cracking Uncovered: Protection Against Unsanctioned CD Copying" by Kris Kaspersky, from pg. 239.
 
 ### Requirements:
-- Windows or Linux with Wine
+- Windows operating system
 - Visual Basic 6.0 SP6 Runtimes
 
 ### Instructions:
